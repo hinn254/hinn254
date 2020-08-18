@@ -1,6 +1,6 @@
-### Hi there, I'm Benny H Otieno - 👋
+### Hi there, I'm Benny H. Otieno - 👋
 
-## I'm a Polyglot Developer and Youtuber!
+## Hi, I am a Polyglot Coder | Python and JavaScript Developer. App Developer React Native and Youtuber!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
