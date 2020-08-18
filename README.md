@@ -56,7 +56,7 @@
 
 ---
 
-  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&hide_border=true&count_private=true&include_all_commits" />
+  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&count_private=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
