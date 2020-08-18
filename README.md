@@ -45,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [How To Scrape Amazon Product Data & Send Notification Email | Python App (Tutorial 2020)](https://www.youtube.com/watch?v=-8Z_m2eniTc)
 - [Git and GitHub Tutorial for Beginners 2020: Command-Line Fundamentals](https://www.youtube.com/watch?v=xFNvikSfPPA)
 - [How To Download Youtube Videos Using Python (Python Tutorial 2020, Pytube, Less Lines Of Code)](https://www.youtube.com/watch?v=aOYZC_oQqKs)
@@ -55,7 +56,7 @@
 
 ---
 
-  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&hide_border=true" />
+  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
