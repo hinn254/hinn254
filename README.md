@@ -56,7 +56,9 @@
 
 ---
 
-  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&repo=github-readme-stats" />
+  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hinn254&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
