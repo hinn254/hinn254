@@ -45,12 +45,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [How To Scrape Amazon Product Data & Send Notification Email | Python App (Tutorial 2020)](https://youtu.be/-8Z_m2eniTc)
-- [Git and GitHub Tutorial for Beginners 2020: Command-Line Fundamentals](https://youtu.be/xFNvikSfPPA)
-- [How To Download Youtube Videos Using Python (Python Tutorial 2020, Pytube, Less Lines Of Code)](https://youtu.be/aOYZC_oQqKs)
-- [How To Code an API GUI Application (Python Tutorial, tkinter 2020)](https://youtu.be/enFIHCZLIAE)
-
+- [How To Scrape Amazon Product Data & Send Notification Email | Python App (Tutorial 2020)](https://www.youtube.com/watch?v=-8Z_m2eniTc)
+- [Git and GitHub Tutorial for Beginners 2020: Command-Line Fundamentals](https://www.youtube.com/watch?v=xFNvikSfPPA)
+- [How To Download Youtube Videos Using Python (Python Tutorial 2020, Pytube, Less Lines Of Code)](https://www.youtube.com/watch?v=aOYZC_oQqKs)
+- [How To Code an API GUI Application (Python Tutorial, tkinter 2020)](https://www.youtube.com/watch?v=enFIHCZLIAE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw)
