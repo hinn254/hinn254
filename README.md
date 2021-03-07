@@ -1,10 +1,10 @@
 ### Hi there, I'm Benny H. Otieno - 👋
 
-## Hi, I am a Polyglot Coder | Python and JavaScript Developer | App Developer React Native and Youtuber!
+### Hi, I am a Polyglot Coder | Python and JavaScript Developer | App Developer React Native and Youtuber!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to football
 - You can check my latest youtube videos below
 
