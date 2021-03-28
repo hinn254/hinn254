@@ -57,7 +57,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&theme=radical&count_private=true)
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
