@@ -57,8 +57,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinn254&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&count_private=true&hide_border=true)
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
