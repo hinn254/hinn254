@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to football
+- ⚡ Fun fact: I love football
 - You can check my latest youtube videos below
 
 ### Connect with me:
@@ -57,7 +57,7 @@
 
 ---
 
-  <img align="left" alt="Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hinn254&count_private=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&theme=radical)
 
 [twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
