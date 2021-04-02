@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love football
 - You can check my latest youtube videos below
 
-![](https://komarev.com/ghpvc/?username=hinn254&color=green))
+![](https://komarev.com/ghpvc/?username=hinn254&color=green)
 
 
 ### Connect with me:
