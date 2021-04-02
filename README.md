@@ -8,6 +8,9 @@
 - ⚡ Fun fact: I love football
 - You can check my latest youtube videos below
 
+![](https://komarev.com/ghpvc/?username=hinn254&color=green))
+
+
 ### Connect with me:
 
 [<img align="left" alt="CodeWithBenny | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
