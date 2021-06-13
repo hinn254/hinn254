@@ -61,8 +61,6 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&count_private=true&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254&show_icons=true&count_private=true&hide_border=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinn254)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinn254&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
