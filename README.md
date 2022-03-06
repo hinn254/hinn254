@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=hinn254&color=green)
 
 ### Other Account:
-![Benny Otieno](https://github.com/Benny-Otieno)
+[Benny Otieno](https://github.com/Benny-Otieno)
 
 ### Connect with me:
 
