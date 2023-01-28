@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Create more Open Source projects
+- 🥅 2023 Goals: Create more Open Source projects
 - ⚡ Fun fact: I love football
 - You can check my latest youtube videos below
 
