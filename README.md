@@ -2,11 +2,11 @@
 
 ### Hi, I am a Polyglot Coder | Fullstack Developer | App Developer and Youtuber!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning and adopting AI ✨
 - 👯 I’m looking to collaborate with others
-- 🥅 2023 Goals: Create more Open Source projects
+- 🥅 2024 Goals: Create more Open Source projects
 - ⚡ Fun fact: I love football
-- You can check my latest youtube videos below
+- You can check my latest YouTube videos below
 
 ![](https://komarev.com/ghpvc/?username=hinn254&color=green)
 
