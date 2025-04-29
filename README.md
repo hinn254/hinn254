@@ -1,6 +1,6 @@
 ### Hi there, I'm Benny H. Otieno - 👋
 
-### Hi, I am a Polyglot Coder | Fullstack Developer | App Developer and Youtuber!
+### Hi, I am a Polyglot Coder | Software Developer | App Developer and Youtuber!
 
 - 🌱 I’m currently learning and adopting AI ✨
 - 👯 I’m looking to collaborate with others
