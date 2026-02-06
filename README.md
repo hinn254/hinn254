@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and adopting AI ✨
 - 👯 I’m looking to collaborate with others
-- 🥅 2024 Goals: Create more Open Source projects
+- 🥅 2026 Goals: Create and contribute to more Open Source projects
 - ⚡ Fun fact: I love football
 - You can check my latest YouTube videos below
 
