@@ -51,11 +51,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Build a News App With React | React Tutorial For Beginners](https://www.youtube.com/watch?v=jTk6XP4IgGs)
-- [How To Scrape Amazon Product Data & Send Notification Email | Python App (Tutorial 2020)](https://www.youtube.com/watch?v=-8Z_m2eniTc)
-- [Git and GitHub Tutorial for Beginners 2020: Command-Line Fundamentals](https://www.youtube.com/watch?v=xFNvikSfPPA)
-- [How To Download Youtube Videos Using Python (Python Tutorial 2020, Pytube, Less Lines Of Code)](https://www.youtube.com/watch?v=aOYZC_oQqKs)
-- [How To Code an API GUI Application (Python Tutorial, tkinter 2020)](https://www.youtube.com/watch?v=enFIHCZLIAE)
+- [How to Evaluate AI Agents — Testing, Evals & Metrics Explained](https://www.youtube.com/watch?v=16f3Lbs9LJw)
+- [How AI Agents Actually Work — Build One with TypeScript & Vercel AI SDK](https://www.youtube.com/watch?v=ZFWBJQggVQw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw)
@@ -66,10 +63,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinn254&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[twitter]: https://twitter.com/HinnBennyKe
 [youtube]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw
-[instagram]: https://www.instagram.com/benny_hinn__/
-[webdevplaylist]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw/playlists
-[jsplaylist]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw/playlists
-[cssplaylist]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw/playlists
-[reactplaylist]: https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw/playlists
