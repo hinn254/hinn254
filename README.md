@@ -8,7 +8,8 @@ Building thoughtful software, exploring AI, and sharing what I learn.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Code_Manyatta-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw)
 [![GitHub](https://img.shields.io/badge/GitHub-hinn254-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hinn254)
-![Profile Views](https://komarev.com/ghpvc/?username=hinn254&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hinn254&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 </div>
 
