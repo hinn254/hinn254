@@ -37,12 +37,9 @@ Outside my day-to-day engineering work, I create technical content on [Code Many
 I create practical tutorials on AI Agent Engineering, TypeScript, and modern software development.
 
 <!-- YOUTUBE:START -->
-- [How to Evaluate AI Agents — Testing, Evals & Metrics Explained](https://www.youtube.com/watch?v=16f3Lbs9LJw)
-- [How AI Agents Actually Work — Build One with TypeScript & Vercel AI SDK](https://www.youtube.com/watch?v=ZFWBJQggVQw)
 <!-- YOUTUBE:END -->
 
 📺 **[Explore more videos on Code Manyatta →](https://www.youtube.com/channel/UCG3RrjGnM5xQgePKpvsl0Gw)**
-
 
 ---
 
